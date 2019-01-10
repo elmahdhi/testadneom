@@ -1,4 +1,4 @@
-package partition;
+package com.partition.sublists;
 
 import java.util.List;
 

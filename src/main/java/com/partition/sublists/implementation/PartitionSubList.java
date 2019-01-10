@@ -1,6 +1,6 @@
-package partition.implementation;
+package com.partition.sublists.implementation;
 
-import partition.Partition;
+import com.partition.sublists.Partition;
 
 import java.util.ArrayList;
 import java.util.List;
