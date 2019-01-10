@@ -1,8 +1,8 @@
 package com.partition.sublists;
 
-import org.junit.*;
-import com.partition.sublists.Partition;
 import com.partition.sublists.implementation.PartitionSubList;
+import org.junit.Before;
+import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.List;
